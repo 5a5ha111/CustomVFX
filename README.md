@@ -1,4 +1,4 @@
-![][(https://habrastorage.org/getpro/habr/upload_files/e7b/66e/b78/e7b66eb786379100e090c17f96ddfb47.gif)
+![Watefall](https://habrastorage.org/getpro/habr/upload_files/e7b/66e/b78/e7b66eb786379100e090c17f96ddfb47.gif)
 
 # Overview
 This system provides an efficient alternative to traditional Particle Systems by leveraging the capabilities of GPU for all calculations and rendering. It is designed for both Android and iOS platforms, offering significant performance benefits and customization options. However, it comes with some limitations that need to be considered for specific use cases.
