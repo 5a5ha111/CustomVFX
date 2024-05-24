@@ -25,7 +25,7 @@ Shader "Custom/CustomVFX"
         _ManualTime("ManualTime", Range(0, 1)) = 0
         [Space]
         [Header(Movement)]
-        _ParticleSpeed("ParticleSpeed", Float) = 1
+        _ParticleSpeed("ParticleLifeSpeed", Float) = 1
         _ParticleDirectional("ParticleDirectional", Vector) = (0, 0, -1, 0)
         _ParticleSpead("ParticleSpead", Range(0, 360)) = 60
         _ParticleVelocityStart("ParticleVelocityStart", Float) = 0
